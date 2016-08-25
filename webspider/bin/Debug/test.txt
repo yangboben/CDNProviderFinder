@@ -1,0 +1,717 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>有孚网络——企业级云计算运营商</title>
+<meta name="Keywords" content="有孚网络，云桌面，云主机，云存储，云通信，云邮箱，云办公，软件云，企业云，教育云，智慧园区。">
+<meta name="Description" content="上海有孚网络股份有限公司创立于2001年，是国内领先的企业级云计算运营商。公司以基础架构服务（IaaS）、软件服务（SaaS）等为主营业务，致力于“让企业信息化更简单！”。">
+<link href="styles/css_all.css" rel="stylesheet" type="text/css" />
+<script src="js/js_all.js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+   <script src="js/html5shiv.js"></script>
+   <script src="js/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+  <!--yovole_top-->
+  <div class="yovole_top">
+    <div class="w_1200">
+      <p class="yovole_top_p">
+      	<a href="http://yun.yovole.com/project/recruit.html" target="_blank">渠道招募</a>
+      	<i>|</i>
+        <a href="about_cooperation.html">商务合作</a>
+        <i>|</i>
+        <a href="about_custom_contact.html">联系我们</a>
+        <span><em></em>400-720-0606</span>
+      </p>
+    </div>
+  </div>
+  <!--yovole_nav-->
+  <div class="yovole_nav_box">
+    <div class="w_1200">
+      <p class="yovole_logo"><a title="上海有孚网络股份有限公司" href="index.html"></a></p>
+      <ul class="yovole_nav f_r js_main_tab">
+        <li class="selected"><a href="index.html">&nbsp;&nbsp;&nbsp;首页&nbsp;&nbsp;&nbsp;</a></li>
+        <li><a href="service_net.html">产品与服务</a></li>
+        <li><a target="_blank" href="http://fx.yovole.com/sundns_finance_cloud.html">金融云</a></li>
+        <li><a href="javascript:void(0);">企业云</a></li>
+        <li><a href="case.html">客户案例</a></li>
+        <li><a href="product_host.html">技术支持</a></li>
+        <li><a href="about_introduce.html">关于我们</a></li>
+      </ul>
+    </div>
+  </div>
+  <!--na_more-->
+  <div class="yovole_nav_more none">
+    <!--index-->
+    <div class="w_1200 js_main_cont none yovole_nav_sy">
+    </div>
+    <!--cp/sever-->
+    <div class="w_1200 js_main_cont none">
+      <div class="f_r">
+        <dl>
+          <dt>计算与网络</dt>
+          <dd><a href="service_net.html">云服务器</a></dd>
+          <dd><a href="service_net.html#net_web">弹性WEB服务</a></dd>
+          <dd><a href="service_net.html#net_load">负载均衡</a></dd>
+        </dl>
+        <dl>
+          <dt>存储与CDN</dt>
+          <dd><a href="service_store.html">云硬盘</a></dd>
+          <dd><a href="service_store.html#store_store">云存储</a></dd>
+          <dd><a href="service_store.html#store_data">云数据库</a></dd>
+          <dd><a href="service_store.html#store_quick">云加速</a></dd>
+          <dd><a href="service_store.html#store_cdn">CDN</a></dd>
+        </dl>
+        <dl>
+          <dt>监控与安全</dt>
+          <dd><a href="service_monitor.html">云防护</a></dd>
+          <dd><a href="service_monitor.html#monitor_safe">云安全</a></dd>
+          <dd><a href="service_monitor.html#monitor_monitor">云监控</a></dd>
+        </dl>
+        <dl>
+          <dt>云数据中心</dt>
+          <dd><a href="service_data.html">数据中心介绍</a></dd>
+          <dd><a href="service_data.html#data_cp">产品展示</a></dd>
+          <dd><a href="service_data.html#data_add">深度增值服务</a></dd>
+        </dl>
+        <dl>
+          <dt>云方案</dt>
+          <dd><a target="_blank" href="http://daas.yovole.com">云桌面</a></dd>
+          <dd><a target="_blank" href="http://yun.yovole.com/project/about.html">专有云</a></dd>
+        </dl>
+        <dl>
+          <dt>解决方案</dt>
+          <dd><a href="service_plan.html">企业云</a></dd>
+          <dd><a href="service_plan.html#plan_busi">电商云</a></dd>
+          <dd><a href="service_plan.html#plan_finance">金融云</a></dd>
+          <dd><a href="service_plan.html#plan_gov">政务云</a></dd>
+          <dd><a href="service_plan.html#plan_edu">教育云</a></dd>
+          <dd><a href="service_plan.html#plan_park">智慧园区</a></dd>
+        </dl>
+        <dl>
+          <dt>云协同</dt>
+          <dd><a href="service_synergy.html">统一沟通与协作（SunUC）</a></dd>
+          <dd><a href="service_synergy.html#synergy_exchange">微软Exchange企业邮箱</a></dd>
+          <dd><a href="service_synergy.html#synergy_lync">Lync托管企业通信服务</a></dd>
+          <dd><a href="service_synergy.html#synergy_sharepoint">Sharepoint托管企业协作服务</a></dd>
+        </dl>
+        <dl>
+          <dt>云应用商城</dt>
+          <dd><a href="service_app.html">企业云应用商城</a></dd>
+        </dl>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <!--金融云-->
+    <div class="w_1200 js_main_cont none yovole_nav_sy">
+    </div>
+    <!--企业云-->
+    <div class="w_1200 js_main_cont none">
+      <div class="f_r">
+        <dl>
+          <dd><a target="_blank" href="http://oacloud.yovole.com">OA协同云</a></dd>
+        </dl>
+        <dl>
+          <dd><a target="_blank" href="http://sbocloud.yovole.com">SAP ERP Cloud</a></dd>
+        </dl>
+        <dl>
+          <dd><a target="_blank" href="http://sap.yovole.com">SAP HANA 云服务</a></dd>
+        </dl>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <!--客户案例-->
+    <div class="w_1200 js_main_cont none">
+      <div class="f_r">
+        <dl>
+          <dd><a href="case.html">典型客户</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="case.html#busi">电商行业</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="case.html#finance">金融行业</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="case.html#gov">政府行业</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="case.html#edu">教育行业</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="case.html#internet">互联网行业</a></dd>
+        </dl>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <!--技术支持-->
+    <div class="w_1200 js_main_cont none">
+      <div class="f_r">
+        <dl>
+          <dd><a href="product_host.html">产品使用说明</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="product_filing.html">备案服务</a></dd>
+        </dl>
+        <dl>
+          <dd><a href="product_answer.html">技术问答</a></dd>
+        </dl>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <!--关于我们-->
+    <div class="w_1200 js_main_cont none">
+      <div class="f_r">
+        <dl>
+          <dt>公司介绍</dt>
+          <dd><a href="about_introduce.html">公司介绍</a></dd>
+        </dl>
+        <dl>
+          <dt>公司荣誉</dt>
+          <dd><a href="about_honor.html">公司资质</a></dd>
+          <dd><a href="about_honor.html#about_honor">公司荣誉</a></dd>
+        </dl>
+        <dl>
+          <dt>发展历程</dt>
+          <dd><a href="about_process.html">发展历程</a></dd>
+        </dl>
+        <dl>
+          <dt>客服中心</dt>
+          <dd><a href="about_custom_news.html">新闻中心</a></dd>
+          <dd><a href="about_custom_yzszl.html">云知识专栏</a></dd>
+          <dd><a href="about_custom_contact.html">联系我们</a></dd>
+          <dd><a href="about_custom_pay.html">付款方式</a></dd>
+        </dl>
+        <dl>
+          <dt>商务合作</dt>
+          <dd><a href="about_cooperation.html">战略合作</a></dd>
+          <dd><a href="about_cooperation.html#about_market">市场合作</a></dd>
+        </dl>
+        <dl>
+          <dt>合作伙伴</dt>
+          <dd><a href="about_partner.html">合作伙伴</a></dd>
+        </dl>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+  <div id="js_yovole_left_menu" style="font-size:0; height:0; display:none;"></div><!--控制首页backtop兼容-->
+  <!--yovole_banner-->
+  <div class="yovole_banner_box">
+    <div class="flexslider">
+      <ul class="slides">
+        <!--li style="background:url(images/yovole_banner1.jpg) 50% 0 no-repeat #4482d5;">
+        </li>
+        <li style="background:url(images/yovole_sap_banner.jpg) 50% 0 no-repeat #4482d5;">
+        </li>
+        <li style="background:url(images/yovole_banner8.jpg) 50% 0 no-repeat #4482d5;">
+          <a target="_blank" title="全球云计算大会" href="CloudMeeting.html"></a>
+        </li>
+        <li style="background:url(images/yovole_banner_11.jpg) 50% 0 no-repeat #4482d5;">
+          <a target="_blank" href="GmailPage.html"></a>
+        </li>
+
+		-->
+		<li style="background:url(images/banner001.jpg) 50% 0 no-repeat #4482d5;">
+          <a target="_blank" href="try.html"></a>
+        </li>
+        <li style="background:url(images/yovole_banner9.jpg) 50% 0 no-repeat #4482d5;">
+          <a target="_blank" href="http://yun.yovole.com/index.html"></a>
+        </li>
+        <li style="background:url(images/yovole_banner3.jpg) 50% 0 no-repeat #4482d5;">
+          <a target="_blank" href="http://sap.yovole.com/"></a>
+        </li>
+        <li style="background:url(images/yovole_banner5.jpg) 50% 0 no-repeat #4482d5;">
+        </li>
+        <li style="background:url(images/yovole_banner7.jpg) 50% 0 no-repeat #4482d5;">
+          <a target="_blank" href="http://yun.yovole.com/project/about.html"></a>
+        </li>
+      </ul>
+    </div>
+    <script type="text/javascript">
+    $(document).ready(function(){
+	    $('.flexslider').flexslider({
+		    directionNav: true,
+		    pauseOnAction: false
+	    });
+    });
+    </script>
+  </div>
+
+  <!--yovole_cont-->
+  <div class="yovole_cont yovole_bg_f8">
+    <p class="yovole_cont_bg"></p>
+    <div class="w_1200 box_hidden">
+      <div class="yovole_cont_dl yovole_cont_dl_box">
+        <a target="_blank" href="http://sap.yovole.com">
+          <dl class="sap">
+            <dt>SAP企业云</dt>
+            <dd><span></span><p>有孚网络携手SAP打造基于HANA平台的大数据运算和商业智能服务。</p><em></em></dd>
+          </dl>
+        </a>
+        <a href="service_plan.html">
+          <dl class="yjsjjfa">
+            <dt>云解决方案</dt>
+            <dd><span></span><p>以云产品为基础，提供定制开发环境的云端解决方案。</p><em></em></dd>
+          </dl>
+        </a>
+        <a href="service_data.html">
+          <dl class="ysjzx">
+            <dt>云数据中心</dt>
+            <dd><span></span><p>根据企业不同应用的需求，提供一站式服务，提高企业整体效益。</p><em></em></dd>
+          </dl>
+        </a>
+        <div class="clear"></div>
+      </div>
+    </div>
+    <!--yovole_cp-->
+    <h3 class="yovole_cp_h3 w_1200 p_t_40"><span>产品与服务</span><a href="service_net.html">更多>></a></h3>
+    <div class="yovole_cont_cp w_1200 p_t_17 p_b_20">
+      <a href="service_net.html">
+        <dl class="yfwq">
+          <dt></dt>
+          <dd class="tit">云服务器</dd>
+          <dd class="p">弹性扩展、提升资源利用率提升用户访问体验</dd>
+        </dl>
+      </a>
+      <a href="service_net.html#net_load">
+        <dl class="fzjh">
+          <dt></dt>
+          <dd class="tit">负载均衡</dd>
+          <dd class="p">扩展网络设备和服务器的带宽避免单点故障</dd>
+        </dl>
+      </a>
+      <a href="service_data.html#data_add">
+        <dl class="zzfw">
+          <dt></dt>
+          <dd class="tit">深度增值服务</dd>
+          <dd class="p">应客户需求提供定制化服务</dd>
+        </dl>
+      </a>
+      <a href="service_monitor.html">
+        <dl class="yfh">
+          <dt></dt>
+          <dd class="tit">云防护</dd>
+          <dd class="p">提供一站式的安全解决方案</dd>
+        </dl>
+      </a>
+      <a href="service_store.html#store_data">
+        <dl class="ysjk">
+          <dt></dt>
+          <dd class="tit">云数据库</dd>
+          <dd class="p">即购即用MySQL关系型数据库无缝兼容</dd>
+        </dl>
+      </a>
+      <a href="service_store.html#store_store">
+        <dl class="ync">
+          <dt></dt>
+          <dd class="tit">云内存</dd>
+          <dd class="p">可弹性扩展，提供数据备份服务</dd>
+        </dl>
+      </a>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+  <!--yovole_cont2-->
+  <div class="yovole_cont2">
+    <div class="w_1200">
+      <div class="yovole_news_box f_l">
+        <h3 class="yovole_cp_h3 p_t_40"><span>最新动态</span></h3>
+        <ul class="yovole_news_tab js_yovole_news_tab m_t_40">
+          <li><a class="selected" href="javascript:void(0);">新闻中心</a></li>
+          <li><a href="javascript:void(0);">有孚资质</a></li>
+          <li><a href="javascript:void(0);">知识专栏</a></li>
+        </ul>
+        <div class="yovole_news_tab_cont js_yovole_news_tab_cont">
+          <!--1_xwzx-->
+          <div class="yovole_news_tab_content">
+          <a href="about_custom_news_detail_48.html">
+              <dl>
+                <dt>
+                  <span>Jan</span>
+                  <p>15</p>
+                </dt>
+                <dd class="tit">公司更名公告</dd>
+                <dd class="p">有孚网络自2001年成立，至今已创立十五年。公司以互联网数据服务业务为基础...</dd>
+              </dl>
+            </a>
+          <a href="about_custom_news_detail_47.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>30</p>
+                </dt>
+                <dd class="tit">让中国企业都能漫步“云端”</dd>
+                <dd class="p">——有孚网络获上海首席信息官联盟颁发“最佳合作贡献奖”</dd>
+              </dl>
+            </a>
+          <a href="about_custom_news_detail_46.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>28</p>
+                </dt>
+                <dd class="tit">智慧上海滩  优秀信息官</dd>
+                <dd class="p">——“有孚网络杯”首届上海优秀首席信息官颁奖典礼圆满落幕...</dd>
+              </dl>
+            </a>
+          <a href="about_custom_news_detail_45.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">首届上海市优秀首席信息官评选活动进入终审阶段</dd>
+                <dd class="p">首届“有孚网络杯”上海优秀首席信息官评选...</dd>
+              </dl>
+            </a>
+          <a href="about_custom_news_detail_44.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">行业盛会 巅峰对话——有孚网络受邀出席2015年全球信息技术主管大会</dd>
+                <dd class="p">备受业界瞩目的全球信息技术主管大会在北京...</dd>
+              </dl>
+            </a>
+          <a href="about_custom_news_detail_43.html">
+              <dl>
+                <dt>
+                  <span>Nov</span>
+                  <p>20</p>
+                </dt>
+                <dd class="tit">有孚网络携手致远软件，打造企业级协同云服务</dd>
+                <dd class="p">有孚网络与致远软件此次金钻合作伙伴关系的...</dd>
+              </dl>
+            </a>
+            <div class="clear"></div>
+            <p class="more"><a href="about_custom_news.html">更多>></a></p>
+          </div>
+          <!--2_yfzz-->
+          <div class="yovole_news_tab_content none">
+            <a href="about_honor.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">2014年认证CA服务器证书合作伙伴</dd>
+                <dd class="p"></dd>
+              </dl>
+            </a>
+            <a href="about_honor.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">2014认证域名注册服务机构</dd>
+                <dd class="p"></dd>
+              </dl>
+            </a>
+            <a href="about_honor.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">CNNIC认证注册服务机构</dd>
+                <dd class="p"></dd>
+              </dl>
+            </a>
+            <a href="about_honor.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">有孚网络二级等保</dd>
+                <dd class="p"></dd>
+              </dl>
+            </a>
+            <a href="about_honor.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">诚信创建企业4星</dd>
+                <dd class="p"></dd>
+              </dl>
+            </a>
+            <a href="about_honor.html">
+              <dl>
+                <dt>
+                  <span>Dec</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">安永复旦中国最具潜力企业</dd>
+                <dd class="p"></dd>
+              </dl>
+            </a>
+            <div class="clear"></div>
+            <p class="more"><a href="about_honor.html">更多>></a></p>
+          </div>
+          <!--3_zszl-->
+          <div class="yovole_news_tab_content none">
+            <a href="about_custom_yzszl_detail.html">
+              <dl>
+                <dt>
+                  <span>July</span>
+                  <p>31</p>
+                </dt>
+                <dd class="tit">有孚网络游戏云 开创娱乐游戏新时代</dd>
+                <dd class="p">随着云计算技术逐渐成熟，云游戏、云安全、云存储、云加速等基于互联网而兴起的新技术...</dd>
+              </dl>
+            </a>
+            <a href="about_custom_yzszl_detail_02.html">
+              <dl>
+                <dt>
+                  <span>June</span>
+                  <p>16</p>
+                </dt>
+                <dd class="tit">浅谈硬件设施的进步给游戏带来的机会</dd>
+                <dd class="p">6月13日，由全球移动游戏联盟（GMGC）主办，全球移动通信协会（GSMA）联合主办的手游...</dd>
+              </dl>
+            </a>
+            <a href="about_custom_yzszl_detail_03.html">
+              <dl>
+                <dt>
+                  <span>Apr</span>
+                  <p>23</p>
+                </dt>
+                <dd class="tit">为您倾情打造——有孚游戏云</dd>
+                <dd class="p">企业云正式上线！ 经过全新改版，企业云全面出用户可免费试用，同时续费也有优惠...</dd>
+              </dl>
+            </a>
+            <a href="about_custom_yzszl_detail_04.html">
+              <dl>
+                <dt>
+                  <span>Aug</span>
+                  <p>26</p>
+                </dt>
+                <dd class="tit">保护云数据安全的10种方法</dd>
+                <dd class="p">云数据存储的出现给人们带来了极大的便利，不过我们在使用的时候可能还会遇到一些比如密码...</dd>
+              </dl>
+            </a>
+            <a href="about_custom_yzszl_detail_05.html">
+              <dl>
+                <dt>
+                  <span>July</span>
+                  <p>31</p>
+                </dt>
+                <dd class="tit">linux：云时代的首选操作系统</dd>
+                <dd class="p">据最新统计，在超级计算机TOP排名中，linux的使用比例已经达到了94.2%，前十名的系统...</dd>
+              </dl>
+            </a>
+            <a href="about_custom_yzszl_detail_06.html">
+              <dl>
+                <dt>
+                  <span>July</span>
+                  <p>09</p>
+                </dt>
+                <dd class="tit">公有云or私有云，如何选择？</dd>
+                <dd class="p"> 公有云和私有云这两种云计算模式的重大区别，评估这两种云计算模式对你的业务的风险...</dd>
+              </dl>
+            </a>
+            <div class="clear"></div>
+            <p class="more"><a href="about_custom_yzszl.html">更多>></a></p>
+          </div>
+          <div class="clear"></div>
+        </div>
+      </div>
+      <!--zoujingyoufu-->
+      <div class="yovole_zjyf_box f_r">
+        <h3 class="yovole_cp_h3 p_t_40"><span>走进有孚</span></h3>
+        <div class="yovole_video m_t_40">
+          <img src="images/yovole_mv.jpg" />
+          <a href="javascript:{$('.js_yovole_video_obj').attr('src','video/Flvplayer.swf');$('.js_yovole_video_box').show();$('.js_yovole_layer').show();void(0);}">
+          </a>
+        </div>
+        <h3 class="yovole_cp_h3 p_t_35"><span>关注我们</span></h3>
+        <div class="yovole_gzwm js_yovole_gzwm m_t_35">
+          <a class="wx" href="#yovole_link"><p><img src="images/yovole_gywm_wx.jpg" /></p></a>
+          <a class="xl" href="#yovole_link"><p><img src="images/yovole_gywm_xl.jpg" /></p></a>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+    <!--yovole_khal-->
+    <h3 class="yovole_cp_h3 w_1200 p_t_40"><span>企业级客户感言</span></h3>
+    <div class="yovole_khgy_box w_1200 p_t_40 p_b_50 box_hidden">
+      <div class="yovole_khgy">
+        <dl>
+          <dt><img src="images/yovole_khgy_pic1.jpg" /></dt>
+          <dd class="tit">桑迪亚</dd>
+          <dd>
+            <p>使用了Exchange Server的云托管服务后，实现了TLS加密传输，提升了邮件的安全性。</p>
+            <p>——桑迪亚医药技术（上海）有限责任公司</p>
+            <p class="t_indent">技术经理&nbsp;&nbsp;&nbsp;&nbsp;朱绍忠</p>
+          </dd>
+        </dl>
+        <dl>
+          <dt><img src="images/yovole_khgy_pic2.jpg" /></dt>
+          <dd class="tit">合富集团</dd>
+          <dd>
+            <p>使用Exchange Server云托管服务后，我们再也不用担心海外邮件的收发问题了。</p>
+            <p>——合富集团&nbsp;&nbsp;&nbsp;&nbsp;IT经理</p>
+          </dd>
+        </dl>
+        <dl>
+          <dt><img src="images/yovole_khgy_pic3.jpg" /></dt>
+          <dd class="tit">上海北斗卫星导航平台有限公司</dd>
+          <dd>
+            <p>使用有孚网络的托管服务后，使得我司更关注企业自身业务的运维。特别是有孚提供的安全增值服务，能有效减少企业对于安全方面的投入，将有限的资源用到更加需要的地方上去。</p>
+            <p>——平台研发部经理</p>
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+
+  <!--yovole_hzhb-->
+  <div class="yovole_bg_f4">
+    <h3 class="yovole_cp_h3 w_1200 p_t_40"><span>合作伙伴</span></h3>
+    <div class="yovole_hzhb w_1200 p_b_60">
+      <p>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic1.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic13.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic15.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic8.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic12.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic2.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic3.jpg" /></a>
+        <a href="about_partner.html"><img src="images/yovole_partner_pic6.jpg" /></a>
+      </p>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+  <!--yovole_link-->
+  <div class="bg_5">
+    <div class="yovole_link w_1200 p_t_40 p_b_50" id="yovole_link">
+      <dl>
+        <dt>产品与服务</dt>
+        <dd><a href="service_net.html">计算与网络</a></dd>
+        <dd><a href="service_store.html">存储与CDN</a></dd>
+        <dd><a href="service_monitor.html">监控与安全</a></dd>
+        <dd><a href="service_data.html">云数据中心</a></dd>
+        <dd><a href="service_desk.html">云桌面</a></dd>
+        <dd><a href="service_plan.html">解决方案</a></dd>
+        <dd><a href="service_synergy.html">云协同</a></dd>
+        <dd><a href="service_app.html">云应用商城</a></dd>
+      </dl>
+      <dl>
+        <dt>企业云</dt>
+        <dd><a target="_blank" href="http://oacloud.yovole.com">OA协同云</a></dd>
+        <dd><a target="_blank" href="http://sbocloud.yovole.com">SAP ERP Cloud</a></dd>
+        <dd><a target="_blank" href="http://sap.yovole.com">SAP HANA 云服务</a></dd>
+      </dl>
+      <dl>
+        <dt>客户案例</dt>
+        <dd><a href="case.html#busi">电商行业</a></dd>
+        <dd><a href="case.html#finance">金融行业</a></dd>
+        <dd><a href="case.html#gov">政府行业</a></dd>
+        <dd><a href="case.html#edu">教育行业</a></dd>
+        <dd><a href="case.html#internet">互联网行业</a></dd>
+      </dl>
+      <dl>
+        <dt>技术支持</dt>
+        <dd><a href="product_host.html">产品使用说明</a></dd>
+        <dd><a href="product_filing.html">备案服务</a></dd>
+        <dd><a href="product_answer.html">技术问答</a></dd>
+      </dl>
+      <dl>
+        <dt>关于我们</dt>
+        <dd><a href="about_introduce.html">公司介绍</a></dd>
+        <dd><a href="about_honor.html">公司荣誉</a></dd>
+        <dd><a href="about_process.html">发展历程</a></dd>
+        <dd><a href="about_custom_contact.html">客服中心</a></dd>
+        <dd><a href="about_cooperation.html">商务合作</a></dd>
+        <dd><a href="about_partner.html">合作伙伴</a></dd>
+      </dl>
+      <dl>
+        <dt>联系我们</dt>
+        <dd class="p_t_10">
+          <p>
+            <img src="images/yovole_gywm_xl.jpg" />
+            <span><i></i>微博二维码</span>
+          </p>
+          <p class="wx">
+            <img src="images/yovole_gywm_wx.jpg" />
+            <span><i></i>微信二维码</span>
+          </p>
+          <div class="clear"></div>
+        </dd>
+        <dd class="p_t_10"><font><i></i>400-720-0606</font></dd>
+      </dl>
+      <div class="clear"></div>
+    </div>
+  </div>
+
+  <!--yovole_bottom-->
+  <div class="bg_2c">
+    <div class="yovole_bottom w_1200 p_t_15 p_b_15">
+      <p>
+        有孚旗下网站：
+        <a target="_blank" href="http://www.yovole.com">有孚网络</a> |
+        <a target="_blank" href="http://cdesk.yovole.com">有孚云</a> |
+        <a target="_blank" href="http://www.sundns.com">阳光互联</a> |
+        <a target="_blank" href="http://www.suncloud.cn">阳光云</a> |
+        <a target="_blank" href="http://sunuc.sundns.com">统一沟通</a> |
+        <a target="_blank" href="http://saas.sundns.com">企业邮箱</a> |
+        <a target="_blank" href="http://oacloud.yovole.com">OA协同云</a> |
+        <a target="_blank" href="http://sbocloud.yovole.com">SAP ERP Cloud</a> |
+        <a target="_blank" href="http://sap.yovole.com">SAP HANA 云服务</a>
+      </p>
+      <p>
+        Copyright © 2001-2014 Yovole All Rights Reserved《增值电信业务经营许可证》:
+        <a target="_blank" href="http://www.sundns.com/imgs/B220050383.gif">B2-20050383</a>
+        <a target="_blank" href="http://www.sundns.com/imgs/B1B2-20040073.jpg">沪B1.B2-20040073</a>
+        <a target="_blank" href="http://www.sundns.com/imgs/iso.gif">ISO9001:2008</a>
+        <a target="_blank" href="http://www.yovole.com/images/iso27001.jpg">ISO27001认证</a>
+      </p>
+      <p><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002000036" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="http://www.beian.gov.cn/file/ghs.png" style="float:left;"/>沪公网安备 31011002000036号</a></p>
+      <p class="pic p_t_10">
+        <a target="_blank" href="http://www.51315.cn/company_details_587"><img src="images/yovole_link_pic1.jpg" /></a>
+        <a target="_blank" href="http://ce.cloud.360.cn/index"><img src="images/yovole_link_pic2.jpg" /></a>
+        <a target="_blank" href="http://www.sundns.com/webscan.php?domainname_safe=www.yovole.com"><img src="images/yovole_link_pic3.jpg" /></a>
+        <a target="_blank" href="http://www.zx110.org/report/index.html"><img src="images/yovole_link_pic4.jpg" /></a>
+        <a target="_blank" href="http://pinggu.zx110.org/checkWebsite.do?lt=1&wd=yovole.com"><img src="images/yovole_link_pic5.jpg" /></a>
+        <a target="_blank" href="http://www.zx110.org/cxs/index.html"><img src="images/yovole_link_pic6.jpg" /></a>
+        <a target="_blank" href="http://www.12321.cn"><img src="images/yovole_link_pic7.jpg" /></a>
+        <a target="_blank" href="http://net.china.com.cn"><img src="images/yovole_link_pic8.jpg" /></a>
+        <a target="_blank" href="http://www.itrust.org.cn/yz/pjwx.asp?wm=4703285567"><img src="images/yovole_link_pic9.jpg" /></a>
+        <a target="_blank" href="http://www.dca.org.cn"><img src="images/yovole_link_pic10.jpg" /></a>
+      </p>
+    </div>
+  </div>
+
+  <!--yovole_video-->
+  <div class="yovole_video_box js_yovole_video_box none">
+    <div class="p_1">
+    <object width="978" height="550">
+    <param name="movie" value="video/Flvplayer.swf">
+    <param name="quality" value="high">
+    <param name="allowFullScreen" value="true" />
+    <param name="FlashVars" value="vcastr_file=video.mp4&IsBufferTime=3&IsAutoPlay=1" />
+    <embed src="video/Flvplayer.swf" allowFullScreen="true" class="js_yovole_video_obj" FlashVars="vcastr_file=video.mp4&IsBufferTime=3&IsAutoPlay=1" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="978" height="550" />
+    </object>
+    </div>
+    <p class="btn"><a href="javascript:{$('.js_yovole_video_box').hide();$('.js_yovole_layer').hide();$('.js_yovole_video_obj').attr('src','video/F.swf');void(0);}">关闭</a>
+    </p>
+  </div>
+  <div class="yovole_layer js_yovole_layer none"></div>
+
+  <!--yovole_backtop-->
+  <div class="yovole_backtop none" id="js_yovole_backtop"><a></a></div>
+
+<script src="js/baidu/statistic.js" type="text/javascript"></script>
+</body>
+</html>

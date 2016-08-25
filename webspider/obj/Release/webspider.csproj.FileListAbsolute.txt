@@ -1,0 +1,2 @@
+C:\workspace\webspider\webspider\bin\Release\webspider.exe.config
+C:\workspace\webspider\webspider\obj\Release\webspider.csproj.ResolveComReference.cache

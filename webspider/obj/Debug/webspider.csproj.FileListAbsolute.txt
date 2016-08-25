@@ -1,0 +1,13 @@
+C:\workspace\webspider\webspider\bin\Debug\webspider.exe.config
+C:\workspace\webspider\webspider\bin\Debug\webspider.exe
+C:\workspace\webspider\webspider\bin\Debug\webspider.pdb
+C:\workspace\webspider\webspider\obj\Debug\webspider.csprojResolveAssemblyReference.cache
+C:\workspace\webspider\webspider\obj\Debug\webspider.exe
+C:\workspace\webspider\webspider\obj\Debug\webspider.pdb
+C:\workspace\webspider\webspider\bin\Debug\ARSoft.Tools.Net.dll
+C:\workspace\webspider\webspider\bin\Debug\BouncyCastle.Crypto.dll
+C:\workspace\webspider\webspider\bin\Debug\ARSoft.Tools.Net.xml
+C:\workspace\webspider\webspider\bin\Debug\HtmlAgilityPack.dll
+C:\workspace\webspider\webspider\bin\Debug\HtmlAgilityPack.pdb
+C:\workspace\webspider\webspider\bin\Debug\HtmlAgilityPack.xml
+C:\workspace\webspider\webspider\obj\Debug\webspider.csproj.ResolveComReference.cache
